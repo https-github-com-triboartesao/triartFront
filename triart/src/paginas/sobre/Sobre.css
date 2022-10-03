@@ -1,0 +1,33 @@
+.caixa {
+    background-color: #EFD4CD;
+}
+
+.imagemFundo {
+    background-image: url(https://uniformesnatalrn.com.br/image/catalog/sobre-nos.png);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.titulo {
+    color: #6c09dd !important;
+    font-weight: bold !important;
+}
+
+.subtitulo {
+    color: black;
+}
+.botao {
+    border-color: #6c09dd!important;
+    background-color:#FFBCBB !important;
+    color:black!important;
+}
+
+.postagens {
+    background-color: #6c09dd !important;
+    
+
+}
