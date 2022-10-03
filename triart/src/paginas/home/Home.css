@@ -1,0 +1,17 @@
+.imagem{
+    width: 80%;
+    height: 80%;
+    align-items: center;
+}
+
+.postagens{
+    background-color: white;
+}
+
+.fundo{
+    background-image: url("https://i.imgur.com/UtvJikn.png");
+}
+
+.center{
+    text-align: center;
+}
