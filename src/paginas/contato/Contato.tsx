@@ -322,7 +322,7 @@ export default function Contato() {
               />
               <CardMedia
                 className={classes.media}
-                image="https://avatars.githubusercontent.com/u/52469840?v=4"
+                image="https://i.imgur.com/qkJRYSH.jpg"
                 title="Sandy"
               />
               <CardContent>
